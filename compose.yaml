@@ -4,3 +4,5 @@ services:
     ports:
       - '61616:61616'
       - '8161:8161'
+    # volumes:
+    #   - ./data:/var/lib/artemis-instance
