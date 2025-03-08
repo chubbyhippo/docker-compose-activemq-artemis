@@ -3,3 +3,4 @@ services:
     image: 'apache/activemq-artemis:latest'
     ports:
       - '61616'
+      - '8161'
